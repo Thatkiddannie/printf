@@ -49,5 +49,5 @@ case 'X':
 		default:
 			break;
 	}
-	return (printed);
+	return (printed);
 }

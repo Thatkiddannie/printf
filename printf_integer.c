@@ -41,5 +41,5 @@ int printf_integer(va_list args, int printed)
 		num -= digit * pow10;
 		digits--;
 	}
-	return (printed);
+	return (printed);
 }
